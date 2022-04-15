@@ -1,4 +1,4 @@
-<h1>Pomodachi</h1>
+<h1>Final Project: Pomodachi</h1>
 
 <h2>Live Demo</h2>
 *pending*
