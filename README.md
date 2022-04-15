@@ -1,12 +1,36 @@
-<h1>Final Project: Pomodachi</h1>
+<h1>Pomodachi</h1>
+
+<h2>Live Demo</h2>
+*pending*
 
 <h2>Description</h2>
-<p>A full stack JavaScript solo project.</p>
+<p>An all in one web application that allows users to manage tasks.</p>
 
+<h2>Features</h2>
+<ul>
+  <li>Users can create tasks</li>
+  <li>Users can make tasks recur daily</li>
+  <li>Users can make tasks include a pomodoro timer</li>
+  <li>Users can view a daily to do list</li>
+  <li>Users can update tasks to their to do list</li>
+  <li>Users can delete tasks in their to do list</li>
+  <li>Users can start the pomodoro timer</li>
+  <li>Users can stop the pomodoro timer</li>
+  <li>Users can view data on how much they focused on certain tasks</li>
+  <li>Users can view what tasks they’ve completed for the day</li>
+ </ul>
+ 
 <h2>Wireframes</h2>
 <a href="https://www.figma.com/file/9lBeoZwbIn4B4RT4H1o2nZ/Jonathan-Trang---Final-Project?node-id=1%3A4">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
+
+<h2>Stretch Features</h2>
+<ul>
+  <li>Users can change frequency of tasks(monthly, yearly, etc.)</li>
+  <li>Users can share productivity with other users</li>
+  <li>Users can share task list with others to use</li>
+</ul>
 
 <h2>Technologies Used</h2>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white">
