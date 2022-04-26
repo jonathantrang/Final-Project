@@ -1,10 +1,10 @@
-<h1>Final Project: Pomodachi</h1>
+<h1>Senior Project: Pomodachi</h1>
 
 <h2>Live Demo</h2>
 *pending*
 
 <h2>Description</h2>
-<p>An all in one web application that allows users to manage tasks.</p>
+<p>A web application that allows listless people to focus and manage their tasks.</p>
 
 <h2>Features</h2>
 <ul>
@@ -21,7 +21,7 @@
  </ul>
  
 <h2>Wireframes</h2>
-<a href="https://www.figma.com/file/9lBeoZwbIn4B4RT4H1o2nZ/Jonathan-Trang---Final-Project?node-id=1%3A4">
+<a href="https://www.figma.com/file/9lBeoZwbIn4B4RT4H1o2nZ/Jonathan-Trang-Senior-Project-Pomodachi">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
